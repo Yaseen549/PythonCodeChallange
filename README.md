@@ -1,5 +1,10 @@
 # PythonCodeChallange
 
+## Day 1
+Status Pending
+## Day 2
+Status Pending
+
 ## Day 3
 ### Treasure Island
 
