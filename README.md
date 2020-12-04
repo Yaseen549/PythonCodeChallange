@@ -19,9 +19,9 @@ Watch it <a href="https://repl.it/@Yaseen59/treasure-island-start">Live</a>
 
 ## Day 4
 ### Rock Paper Scissor Game
-<!-- 
-<img src="https://github.com/Yaseen549/PythonCodeChallange/blob/main/imgs/Repl-it-treasure-island-start.png" alt="Coder GIF" width="600" height="350">
--->
+
+<img src="https://github.com/Yaseen549/PythonCodeChallange/blob/main/imgs/rock-paper-scissors.jpg" alt="Coder GIF" width="600" height="350">
+
 Watch it <a href="https://repl.it/@Yaseen59/rock-paper-scissors-start">Live</a>
 
 ## Day 5
