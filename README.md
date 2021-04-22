@@ -29,7 +29,7 @@ Watch it <a href="https://repl.it/@Yaseen59/rock-paper-scissors-start">Live</a>
 
 <img src="https://github.com/Yaseen549/PythonCodeChallange/blob/main/imgs/random-password-generator.jpg" alt="Coder GIF" width="600" height="350">
 
-Watch it <a href="https://repl.it/@appbrewery/password-generator-end">Live</a>
+Watch it <a href="https://replit.com/@Yaseen59/password-generator-start">Live</a>
 
 ## Day 6
 ### awaiting
