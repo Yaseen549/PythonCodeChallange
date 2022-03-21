@@ -1,4 +1,4 @@
-# PythonCodeChallange
+# PythonCodeChallenge
 
 ## Day 1
 ### Band Name Generator
@@ -18,7 +18,6 @@ Link Available soon
 
 <!-- Watch it <a href="#">Live</a> (Available Soon!) -->
 Link Available soon
-
 
 ## Day 5
 ### Random Password Generator
