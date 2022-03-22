@@ -6,6 +6,7 @@
 Link Available soon
 
 ## Day 2
+### Tip Calculator
 Status Pending
 
 ## Day 3
