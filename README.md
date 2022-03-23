@@ -26,4 +26,5 @@ Link Available soon
 Link Available soon
 
 ## Day 6
-### awaiting
+### Karel
+No Preview

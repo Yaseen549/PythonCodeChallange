@@ -1,4 +1,6 @@
 #Step 5
+# from codes.day7 import hangman_art
+# from codes.day7 import hangman_words
 import hangman_art
 import hangman_words
 import random
@@ -12,6 +14,7 @@ end_of_game = False
 lives = 6
 
 #TODO-3: - Import the logo from hangman_art.py and print it at the start of the game.
+print(hangman_art.logo)
 
 #Testing code
 print(f'Pssst, the solution is {chosen_word}.')
