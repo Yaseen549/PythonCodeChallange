@@ -3,27 +3,32 @@
 
 ### Day 1 - Band Name Generator
 
-Link Available soon
+Click to see <a href="https://replit.com/@Yaseen59/band-name-generator-start#main.py">Live</a>
 
 ### Day 2 - Tip Calculator
-Status Pending
+
+Click to see <a href="https://replit.com/@Yaseen59/tip-calculator-start#main.py">Live</a>
 
 ### Day 3 - Treasure Island
 
-Link Available soon
+Click to see <a href="https://replit.com/@Yaseen59/treasure-island-start#main.py">Live</a>
 
 ### Day 4 - Rock Paper Scissor Game
 
-<!-- Watch it <a href="#">Live</a> (Available Soon!) -->
-Link Available soon
+Click to see <a href="https://replit.com/@Yaseen59/rock-paper-scissors-start#main.py">Live</a>
 
-### Day 5 - Random Password Generator
+### Day 5 - Password Generator
 
-Link Available soon
+Click to see <a href="https://replit.com/@Yaseen59/password-generator-start#main.py">Live</a>
 
 ### Day 6 - Karel
 No Preview
 
 ### Day 7 - Hangman
 
-Link Available soon
+Click to see <a href="https://replit.com/@Yaseen59/Day-7-Hangman-5-Start#main.py">Live</a>
+
+### Day 8 - caesar cipher
+
+Click to see <a href="https://replit.com/@Yaseen59/caesar-cipher-4-start#main.py">Live</a>
+
