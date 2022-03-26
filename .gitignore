@@ -3,3 +3,4 @@ venv
 imgs
 pledge
 main.py
+__pycache__

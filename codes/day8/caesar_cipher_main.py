@@ -1,7 +1,9 @@
-import art
+from codes.day9 import art
+
 # from codes.day8 import art
 
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
+            'v', 'w', 'x', 'y', 'z', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
             'v', 'w', 'x', 'y', 'z']
 
 def caesar(start_text, shift_amount, cipher_direction):
@@ -27,7 +29,7 @@ def caesar(start_text, shift_amount, cipher_direction):
 
 # TODO-1: Import and print the logo from art.py when the program starts.
 print(art.logo)
-
+# print(len(alphabet))
 # TODO-4: Can you figure out a way to ask the user if they want to restart the cipher program?
 # e.g. Type 'yes' if you want to go again. Otherwise type 'no'.
 # If they type 'yes' then ask them for the direction/text/shift again and call the caesar() function again?
@@ -50,7 +52,7 @@ while is_true:
 
     # is_true = True
     # while is_true:
-    shift %= len(alphabet)
+    shift %= 26
         # if shift < len(alphabet):
         #     is_true = False
     # print(round(shift), len(alphabet))
