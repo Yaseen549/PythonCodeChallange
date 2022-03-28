@@ -2,7 +2,7 @@
 <div align=center>
     <b> <i>100 Days of Code</i> </b>
     <p>Instruction for the code search</p>
-    <img src="code_search_instruction.jpg" alt="Coder GIF" width="300" height="250">  
+    <img src="code_search_instruction.jpg" alt="Coder GIF" width="400" height="250">  
 </div>
 
 
