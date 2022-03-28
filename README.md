@@ -36,3 +36,7 @@ Click to see <a href="https://replit.com/@Yaseen59/caesar-cipher-4-start#main.py
 
 Click to see <a href="https://replit.com/@Yaseen59/blind-auction-start#main.py">Live</a>
 
+### Day 10 - Calculator using Dictionaries & functions
+
+Click to see <a href="https://replit.com/@Yaseen59/calculator-start#main.py">Live</a>
+
