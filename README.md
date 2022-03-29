@@ -45,3 +45,7 @@ Click to see <a href="https://replit.com/@Yaseen59/blind-auction-start#main.py">
 
 Click to see <a href="https://replit.com/@Yaseen59/calculator-start#main.py">Live</a>
 
+### Day 11 - Blackjack Capstone Project 1
+
+Click to see <a href="https://replit.com/@Yaseen59/blackjack-start#main.py">Live</a>
+
