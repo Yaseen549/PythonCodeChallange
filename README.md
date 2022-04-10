@@ -49,3 +49,7 @@ Click to see <a href="https://replit.com/@Yaseen59/calculator-start#main.py">Liv
 
 Click to see <a href="https://replit.com/@Yaseen59/blackjack-start#main.py">Live</a>
 
+### Day 12 - Number Guessing Game
+
+Click to see <a href="https://replit.com/@Yaseen59/guess-the-number-start#main.py">Live</a>
+
