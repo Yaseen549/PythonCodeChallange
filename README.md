@@ -53,3 +53,13 @@ Click to see <a href="https://replit.com/@Yaseen59/blackjack-start#main.py">Live
 
 Click to see <a href="https://replit.com/@Yaseen59/guess-the-number-start#main.py">Live</a>
 
+### Day 13 - Debugging
+
+Click to see <a href="https://replit.com/@Yaseen59/day-13-start#main.py">Live</a>
+
+### Day 14 - Higher Lower Game
+
+<!-- Click to see <a href="https://replit.com/@Yaseen59/day-13-start#main.py">Live</a> -->
+Updating...
+
+
