@@ -53,13 +53,23 @@ Click to see <a href="https://replit.com/@Yaseen59/blackjack-start#main.py">Live
 
 Click to see <a href="https://replit.com/@Yaseen59/guess-the-number-start#main.py">Live</a>
 
-### Day 13 - Debugging
+### Day 13 - De/bugging
 
 Click to see <a href="https://replit.com/@Yaseen59/day-13-start#main.py">Live</a>
 
 ### Day 14 - Higher Lower Game
 
 <!-- Click to see <a href="https://replit.com/@Yaseen59/day-13-start#main.py">Live</a> -->
+skipped...
+
+### Day 15 - Local Development Env Setup
+
+skipped...
+
+### Day 16 - OOP
+
+skipped...
+
+### Day 17 - Quiz Project & Benefits of OOPs
+
 Updating...
-
-

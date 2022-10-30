@@ -1,4 +1,4 @@
-from codes.day13 import game_data
+from codes.day14 import game_data
 import random
 
 print("---- HigherLower ----")
