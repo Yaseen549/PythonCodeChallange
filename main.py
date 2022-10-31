@@ -1,1 +1,1 @@
-print("Day 17 - update")
+print("Updated day 18")

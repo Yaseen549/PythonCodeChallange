@@ -70,5 +70,6 @@ skipped...
 
 skipped...
 
-### Day 17 - Quiz Project & Benefits of OOPs
-<a href="codes/day17/">Source Code</a>
+### Day 17 - <a href="codes/day17/">Quiz Project & Benefits of OOPs</a>
+
+### Day 18 - <a href="codes/day18/">Intermediate Turtle & GUI</a>
