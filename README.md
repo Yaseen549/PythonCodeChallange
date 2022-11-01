@@ -73,3 +73,5 @@ skipped...
 ### Day 17 - <a href="codes/day17/">Quiz Project & Benefits of OOPs</a>
 
 ### Day 18 - <a href="codes/day18/">Intermediate Turtle & GUI</a>
+
+### Day 19 - <a href="codes/day18/">Instance, State & Higher order functions</a>
