@@ -74,4 +74,8 @@ skipped...
 
 ### Day 18 - <a href="codes/day18/">Intermediate Turtle & GUI</a>
 
-### Day 19 - <a href="codes/day18/">Instance, State & Higher order functions</a>
+### Day 19 - <a href="codes/day19/">Instance, State & Higher order functions</a>
+
+### Day 20 - <a href="codes/day20/">Build The Snake Game Part 1 </a>
+
+<p align=center> End of file</p>
